@@ -1,0 +1,9 @@
+[package]
+name = "cmu-dict"
+version = "0.0.1"
+authors = ["Tristan Mortimer <qwuke@qwuke.net>"]
+description = "A library for quickly accessing the CMU Pronunciation Dictionary."
+
+license = "Apache-2.0"
+
+readme = "README.md"
